@@ -1,3 +1,35 @@
-h1 {color: black}
-h1 {font-style: italic}
-body {background-color: lightblue}
+h1 {
+	color: black;
+	font-family:serif;
+	font-style: italic;
+}
+
+body {
+	background-color: lightblue;
+}
+
+h2 {
+	font-family: monospace;
+	font-style: monaco;
+	
+}
+
+p1 {
+	font-family: sans-serif;
+	font-style: helvetica;
+}
+
+p2 {
+	font-family: sans-serif;
+	font-style: helvetica;
+}
+
+tr {
+	font-family: sans-serif;
+	font-style: helvetica;
+}
+
+a {
+	font-family: sans-serif;
+	font-style: helvetica;
+}
