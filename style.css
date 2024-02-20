@@ -1,7 +1,7 @@
 h1 {
 	color: black;
-	font-family:serif;
-	font-style: italic;
+	font-family: monospace;
+	font-style: lucida-console;
 	font-size: 32px;
 }
 
@@ -16,20 +16,14 @@ h2 {
 	
 }
 
-p1 {
+p {
 	font-family: sans-serif;
 	font-style: helvetica;
+	font-size: 15px;
 }
 
-p2 {
-	font-family: sans-serif;
-	font-style: helvetica;
-}
 
-tr {
-	font-family: sans-serif;
-	font-style: helvetica;
-}
+
 
 a {
 	font-family: sans-serif;
